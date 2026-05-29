@@ -15,8 +15,8 @@
     <groupId>pt.uc00605</groupId>
     <artifactId>escola</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>escola</name>
-    <description>Projeto Spring Boot</description>
+    <name>escolaTeste02</name>
+    <description>Projeto Spring Boot Teste02</description>
 
     <properties>
         <java.version>21</java.version>
